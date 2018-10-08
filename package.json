@@ -1,0 +1,15 @@
+{
+  "name": "issue-vuepress-badge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Eterion/issue-vuepress-badge.git",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docs": "vuepress build docs",
+    "docs-dev": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.8"
+  }
+}

@@ -1,0 +1,3 @@
+# Docs
+
+<Badge text="Badge" />
